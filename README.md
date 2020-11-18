@@ -14,21 +14,18 @@ Hey you my name is Luca, you most likely will know me most likely as the creator
 
 ## My Socials
 <!-- markdownlint-disable MD033 -->
-<table>
+<table class="socials">
     <tr>
-        <td><a href="https://www.nexusmods.com/users/42051055">Nexus Mods</a></td>
-        <td><a href="https://github.com/EzioTheDeadPoet">GitHub</a></td>
-        <td><a href="https://www.reddit.com/user/EzioTheDeadPoet">Reddit</a></td>
+        <td><a class="buttons" href="https://www.nexusmods.com/users/42051055">Nexus Mods</a></td>
+        <td><a class="buttons" href="https://github.com/EzioTheDeadPoet">GitHub</a></td>
+        <td><a class="buttons" href="https://www.reddit.com/user/EzioTheDeadPoet">Reddit</a></td>
+        <td><a class="buttons" href="https://twitter.com/eziothedeadpoet">Twitter</a></td>
     </tr>
     <tr>
-        <td><a href="https://steamcommunity.com/id/EzioTheDeadPoet/">Steam</a></td>
-        <td><a href="https://www.gog.com/u/EzioTheDeadPoet">GOG</a></td>
-        <td><a href="https://ubisoftconnect.com/en-US/profile/Sw33tChiliSauce">Ubisoft Connect</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://twitter.com/eziothedeadpoet">Twitter</a></td>
-        <td><a href="https://www.youtube.com/channel/UCJ7aCKDsa8CYbPaghfTcQ9Q">YouTube</a></td>
-        <td><a href="https://www.twitch.tv/eziothedeadpoet">Twitch</a></td>
+        <td><a class="buttons" href="https://steamcommunity.com/id/EzioTheDeadPoet/">Steam</a></td>
+        <td><a class="buttons" href="https://www.gog.com/u/EzioTheDeadPoet">GOG</a></td>
+        <td><a class="buttons" href="https://ubisoftconnect.com/en-US/profile/Sw33tChiliSauce">Ubisoft</a></td>
+        <td><a class="buttons" href="https://www.youtube.com/channel/UCJ7aCKDsa8CYbPaghfTcQ9Q">YouTube</a></td>
     </tr>
 </table>
 <!-- markdownlint-enable MD033 -->
