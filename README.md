@@ -12,8 +12,6 @@ Hey you my name is Luca, you most likely will know me most likely as the creator
 - [Tales from the Northern Lands](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/)
   - This is my own modlist I made with SME(FT) as a base that is primarily focused on bringing you a visual overhaul similar to Borderlands and other cell shaded games and secondly focused to be in direct contrast to all the dark, hard or complicated modlist out there, by focusing on a player empowering progression and the addition of ~93.700 weapons and ~91.000 wearable items (Armors, jewelry and clothes) to find.
 
-- 
-
 ## My Socials
 <!-- markdownlint-disable MD033 -->
 <table>
