@@ -4,7 +4,7 @@
 
 Hey you my name is Luca, you most likely will know me most likely as the creator of [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](https://eziothedeadpoet.github.io/SME-FT-/), [Tales from the Northern Lands](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/), [Luca's Cellshading ReShade Preset](https://www.nexusmods.com/skyrimspecialedition/mods/40578) or my fixes for [ASO - Artistic Skyrim Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/9111) found [here](https://www.nexusmods.com/users/42051055?tab=user+files). I occasionally shitpost on twitter and try to get better at doing digital art and coding in my free time.
 
-## My Babies
+## My Modlist
 
 - [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](https://eziothedeadpoet.github.io/SME-FT-/)
   - It is all in the name it is a collection of the bare minimum of mods with the best possible compatibility in mind and all the tools ready to go for you to start modding either to create a own modded setup, or to test your freshly created mods or the mods you want to create.
