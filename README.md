@@ -14,20 +14,14 @@ Hey you my name is Luca, you most likely will know me most likely as the creator
 
 ## My Socials
 <!-- markdownlint-disable MD033 -->
-<table class="socials">
-    <tr>
-        <td><li class="buttons"><a href="https://www.nexusmods.com/users/42051055">Nexus Mods</a></li></td>
-        <td><li class="buttons"><a href="https://github.com/EzioTheDeadPoet">GitHub</a></li></td>
-        <td><li class="buttons"><a href="https://www.reddit.com/user/EzioTheDeadPoet">Reddit</a></li></td>
-        <td><li class="buttons"><a href="https://twitter.com/eziothedeadpoet">Twitter</a></li></td>
-    </tr>
-    <tr>
-        <td><li class="buttons"><a href="https://steamcommunity.com/id/EzioTheDeadPoet/">Steam</a></li></td>
-        <td><li class="buttons"><a href="https://www.gog.com/u/EzioTheDeadPoet">GOG</a></li></td>
-        <td><li class="buttons"><a href="https://ubisoftconnect.com/en-US/profile/Sw33tChiliSauce">Ubisoft</a></li></td>
-        <td><li class="buttons"><a href="https://www.youtube.com/channel/UCJ7aCKDsa8CYbPaghfTcQ9Q">YouTube</a></li></td>
-    </tr>
-</table>
+<a class="buttons" href="https://www.nexusmods.com/users/42051055">Nexus Mods</a>
+<a class="buttons" href="https://github.com/EzioTheDeadPoet">GitHub</a>
+<a class="buttons" href="https://www.reddit.com/user/EzioTheDeadPoet">Reddit</a>
+<a class="buttons" href="https://twitter.com/eziothedeadpoet">Twitter</a>
+<a class="buttons" href="https://steamcommunity.com/id/EzioTheDeadPoet/">Steam</a>
+<a class="buttons" href="https://www.gog.com/u/EzioTheDeadPoet">GOG</a>
+<a class="buttons" href="https://ubisoftconnect.com/en-US/profile/Sw33tChiliSauce">Ubisoft</a>
+<a class="buttons" href="https://www.youtube.com/channel/UCJ7aCKDsa8CYbPaghfTcQ9Q">YouTube</a>
 <!-- markdownlint-enable MD033 -->
 
 ## Support Me
