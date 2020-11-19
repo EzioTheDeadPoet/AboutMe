@@ -35,3 +35,5 @@ Hey you my name is Luca, you most likely will know me most likely as the creator
 If you like what I do you can buy me a coffee (more likely a Coke or some RockStar ;-) )
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L12PVW6)
+
+---
