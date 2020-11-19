@@ -14,6 +14,7 @@ Hey you my name is Luca, you most likely will know me most likely as the creator
 
 ## My Socials
 <!-- markdownlint-disable MD033 -->
+<div class="socials">
 <a class="buttons" href="https://www.nexusmods.com/users/42051055">Nexus Mods</a>
 <a class="buttons" href="https://github.com/EzioTheDeadPoet">GitHub</a>
 <a class="buttons" href="https://www.reddit.com/user/EzioTheDeadPoet">Reddit</a>
@@ -22,6 +23,7 @@ Hey you my name is Luca, you most likely will know me most likely as the creator
 <a class="buttons" href="https://www.gog.com/u/EzioTheDeadPoet">GOG</a>
 <a class="buttons" href="https://ubisoftconnect.com/en-US/profile/Sw33tChiliSauce">Ubisoft</a>
 <a class="buttons" href="https://www.youtube.com/channel/UCJ7aCKDsa8CYbPaghfTcQ9Q">YouTube</a>
+</div>
 <!-- markdownlint-enable MD033 -->
 
 ## Support Me
