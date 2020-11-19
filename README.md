@@ -29,6 +29,7 @@ Hey you my name is Luca, you most likely will know me most likely as the creator
     </tr>
 </table>
 <!-- markdownlint-enable MD033 -->
+
 ## Support Me
 
 If you like what I do you can buy me a coffee (more likely a Coke or some RockStar ;-) )
