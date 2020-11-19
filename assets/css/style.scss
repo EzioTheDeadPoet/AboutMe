@@ -189,7 +189,7 @@ td li.buttons:hover {
     background: linear-gradient(to top, #e5ac80 0%,#b3672d 100%);
 }
 
-a.buttons {
+body a.buttons {
 	width:132px;
 	height:15px;
 	margin-bottom: 12px;
@@ -213,7 +213,7 @@ a.buttons {
 	box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
 }
 
-a.buttons:hover {
+ body a.buttons:hover {
 	background: #e5ac80;
 	background: -moz-linear-gradient(top, #e5ac80 0%, #950119 100%);
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#8DAEB5), color-stop(100%,#8DAEB5));
