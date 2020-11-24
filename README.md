@@ -31,8 +31,10 @@ If you like what I do you can support me on Patreon or a one time donation via K
 
 <div class="socials">
 <a href="https://www.patreon.com/bePatron?u=40374890" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'L4L12PVW6');kofiwidget2.draw();</script>
+<!--a href="https://ko-fi.com/L4L12PVW6"><>
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L12PVW6)-->
 </div>
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L12PVW6)
 <!-- markdownlint-enable MD033 -->
 
 ---
