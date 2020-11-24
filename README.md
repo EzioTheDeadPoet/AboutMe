@@ -30,7 +30,7 @@ Hey you my name is Luca, you most likely will know me most likely as the creator
 If you like what I do you can support me on Patreon or a one time donation via Ko-fi, both types of supporters will be featured on a dedicated credit page linked to all my works.
 
 <a href="https://www.patreon.com/bePatron?u=40374890" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-<a class="ko-fi" href='https://ko-fi.com/L4L12PVW6' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/L4L12PVW6' target='_blank'><img class="ko-fi" height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <!-- markdownlint-enable MD033 -->
 
