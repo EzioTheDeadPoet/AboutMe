@@ -10,18 +10,6 @@ I highly encourage you to support the [Wabbajack](https://www.wabbajack.org/#/) 
 
 - ForgottenGlory
 
-### Dragonslayers
-
-- There is room for a 1st.
-
-### Adventurers
-
-- There is room for a 1st.
-
-### City Guards
-
-- There is room for a 1st.
-
 ### Supporters
 
 - There is room for a 1st.
