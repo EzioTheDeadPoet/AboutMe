@@ -10,6 +10,10 @@ I highly encourage you to support the [Wabbajack](https://www.wabbajack.org/#/) 
 
 - ForgottenGlory
 
-### Supporters
+### Supporters (Patreon)
 
-- There is room for a 1st.
+- Galaxy Synth (Shelb)
+
+### Ko-Fi
+
+- still room for a 1st.
