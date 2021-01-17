@@ -14,6 +14,6 @@ I highly encourage you to support the [Wabbajack](https://www.wabbajack.org/#/) 
 
 - Galaxy Synth (Shelb)
 
-### Ko-Fi
+### Donations (Ko-Fi)
 
 - still room for a 1st.
