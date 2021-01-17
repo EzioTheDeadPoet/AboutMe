@@ -6,7 +6,9 @@ I highly encourage you to support the [Wabbajack](https://www.wabbajack.org/#/) 
 
 ## My Supporters ♥
 
-### THE HERO THAT MADE ALL THIS POSSIBLE
+### THE HERO THAT MADE ALL THIS\* POSSIBLE
+
+\*This meaning [SME(FT)](https://eziothedeadpoet.github.io/SME-FT-/) and [Tales from the Northern Lands](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/).
 
 - ForgottenGlory
 
