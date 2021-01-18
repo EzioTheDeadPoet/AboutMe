@@ -2,7 +2,7 @@
 title: Hall of Fame
 description: This Page is dedicated to honor all the people that have supported me and my projects in the past.
 ---
-
+<!-- markdownlint-disable MD025 -->
 # Hall of Fame
 
 ## Special Message
