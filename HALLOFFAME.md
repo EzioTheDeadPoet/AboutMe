@@ -23,4 +23,4 @@ I highly encourage you to support the [Wabbajack](https://www.wabbajack.org/#/) 
 
 ### Donations (Ko-Fi)
 
-- still room for a 1st.
+- Épicurien
