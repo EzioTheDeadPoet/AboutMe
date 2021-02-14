@@ -20,6 +20,7 @@ I highly encourage you to support the [Wabbajack](https://www.wabbajack.org/#/) 
 ### Supporters (Patreon)
 
 - Galaxy Synth (Shelb)
+- Weirdo (Purveyor of Tea)
 
 ### Donations (Ko-Fi)
 
