@@ -25,3 +25,4 @@ I highly encourage you to support the [Wabbajack](https://www.wabbajack.org/#/) 
 ### Donations (Ko-Fi)
 
 - Épicurien
+- Brandon Walker
