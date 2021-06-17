@@ -19,10 +19,13 @@ I highly encourage you to support the [Wabbajack](https://www.wabbajack.org/#/) 
 
 ### Supporters (Patreon)
 
+*At any point in time.*
+
 - Galaxy Synth (Shelb)
 - Weirdo (Purveyor of Tea)
 
 ### Donations (Ko-Fi)
 
-- Épicurien
 - Brandon Walker
+- Épicurien
+- FFrisk
