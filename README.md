@@ -2,6 +2,8 @@
 
 ## About Me
 
+![Profile Picture](https://avatars.githubusercontent.com/u/52624146)
+
 Hey my name is Luca, you most likely will know me as the creator of [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](https://eziothedeadpoet.github.io/SME-FT-/), [Tales from the Northern Lands](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/), [Luca's Cellshading ReShade Preset](https://www.nexusmods.com/skyrimspecialedition/mods/40578) or one of my fixes I made after encountering issues with mods I use in one of those modlists, which can be found [here](https://www.nexusmods.com/users/42051055?tab=user+files). I also help out with the Wabbajack Project and occasionally help with alpha tests for new features, either directly or indirectly by having created a nice test list with SME(FT). I occasionally shitpost on twitter and try to get better at doing digital art and coding in my free time.
 
 ## My Modlists
