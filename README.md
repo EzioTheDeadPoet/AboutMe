@@ -9,7 +9,6 @@ Hey my name is Luca, you most likely will know me as the creator of [SME(FT) - S
 ## My Modlists
 
 - [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](https://eziothedeadpoet.github.io/SME-FT-/)
-  - **Not maintained by me anymore.**
   - It is all in the name it is a collection of the bare minimum of mods with the best possible compatibility in mind and all the tools ready to go for you to start modding either to create a own modded setup, or to test your freshly created mods or the mods you want to create.
 
 - [Tales from the Northern Lands](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/)
