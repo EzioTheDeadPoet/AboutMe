@@ -29,9 +29,11 @@ If you want to support me here are the links for doing so:
 - Galaxy Synth (Shelb)
 - Weirdo (Purveyor of Tea)
 
-### Donations (Ko-Fi | Nexus Mods)
+### Donations (Ko-Fi | Nexus Mods | PayPal)
 
 - Brandon Walker
 - Épicurien
 - FFrisk
+- 𝘌⤬ѻҭ𝘦Ϗ
+- TDarkShadow
 - Anonymous (Still waiting for an E-Mail reply what name to list here.)
