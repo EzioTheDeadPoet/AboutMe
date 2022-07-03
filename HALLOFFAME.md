@@ -16,11 +16,14 @@ If you want to support me here are the links for doing so:
 
 ## My Supporters ♥
 
-### THE HERO THAT MADE ALL THIS\* POSSIBLE
+### THE HEROS THAT MADE ALL THIS\* POSSIBLE
 
 \*This meaning [SME(FT)](https://eziothedeadpoet.github.io/SME-FT-/) and [Tales from the Northern Lands](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/).
 
+By Gifting Me Nexus Premium when I could not afford it.
+
 - ForgottenGlory
+- Simon Magus
 
 ### Supporters (Patreon)
 
@@ -36,4 +39,4 @@ If you want to support me here are the links for doing so:
 - FFrisk
 - 𝘌⤬ѻҭ𝘦Ϗ
 - TDarkShadow
-- Anonymous (Still waiting for an E-Mail reply what name to list here.)
+- Anonymous (Still waiting for an E-Mail reply what name to list here, if any.)
