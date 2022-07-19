@@ -1,7 +1,4 @@
----
----
-
-@import "{{ site.theme }}";
+@import url("https://raw.githubusercontent.com/EzioTheDeadPoet/AboutMe/master/_sass/jekyll-theme-dinky.scss");
 
 a.buttons {
 	padding: 8px 2px 2px 22px;
@@ -81,6 +78,15 @@ div.header {
 div.header p {
 	margin: 11px 0;
 }
+
+table {
+	border: 1px solid #008080;
+}
+
+td {
+	background: #262D37;
+}
+
 
 section {
 	order: 2;
