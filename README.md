@@ -2,7 +2,7 @@
 
 ## About Me
 <!-- markdownlint-disable MD033 -->
-[<img src="https://avatars.githubusercontent.com/u/52624146" width="250"/>](https://avatars.githubusercontent.com/u/52624146)
+[<img src="https://avatars.githubusercontent.com/u/52624146" width="175"/>](https://avatars.githubusercontent.com/u/52624146)
 
 Hey my name is Luca, you most likely will know me as the creator of [Tales from the Northern Lands](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/) or one of my other mods or Synthesis Patchers found [here](https://www.nexusmods.com/users/42051055?tab=user+files).
 
