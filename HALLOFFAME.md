@@ -40,3 +40,4 @@ By Gifting Me Nexus Premium when I could not afford it.
 - 𝘌⤬ѻҭ𝘦Ϗ
 - TDarkShadow
 - Anonymous (Still waiting for an E-Mail reply what name to list here, if any.)
+- Lokii__TV/Lokii
