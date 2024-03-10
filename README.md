@@ -31,7 +31,6 @@ I also help out with the Wabbajack Project and occasionally help with alpha test
 
 If you like what I do you can support me on Patreon or a one time donation via Ko-fi, both types of supporters will be featured on a dedicated "Hall of Fame" page linked to all my works.
 
-<a href="https://www.patreon.com/bePatron?u=40374890"><img class="ko-fi" height='32' style='border:0px;height:32px;' src='https://media.discordapp.net/attachments/479647610055950336/718697459592986634/Patreon_Button.png' border='0' alt="Become a Patron" /></a>
 <a href='https://ko-fi.com/L4L12PVW6' target='_blank'><img class="ko-fi" height='30' style='border:0px;height:32px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <!-- markdownlint-enable MD033 -->
