@@ -21,14 +21,14 @@ I also help out with the Wabbajack Project and occasionally help with alpha test
 ## My Socials
 <!-- markdownlint-disable MD033 -->
 <div align="center" class="socials">
-<a href="https://www.nexusmods.com/users/42051055"><img src="https://img.shields.io/badge/Nexus%20Mods-%23E6832B?style=for-the-badge&logo=nexusmods&logoColor=white" alt="Nexus Mods Badge"/></a>
-<a href="https://github.com/EzioTheDeadPoet"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
-<a href="https://www.reddit.com/user/EzioTheDeadPoet"><img src="https://img.shields.io/badge/reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/></a>
-<a href="https://twitter.com/eziothedeadpoet"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/></a>
-<a href="https://steamcommunity.com/id/EzioTheDeadPoet/"><img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/></a>
-<a href="https://www.gog.com/u/EzioTheDeadPoet"><img src="https://img.shields.io/badge/GOG-%2386328A?style=for-the-badge&logo=gogdotcom&logoColor=white" alt="GOG Badge"/></a>
-<a href="https://ubisoftconnect.com/en-US/profile/Sw33tChiliSauce"><img src="https://img.shields.io/badge/Ubisoft%20Connect-%23000?style=for-the-badge&logo=ubisoft&logoColor=white" alt="Ubisoft Connect Badge"/></a>
-<a href="https://www.youtube.com/channel/UCJ7aCKDsa8CYbPaghfTcQ9Q"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
+  <a href="https://github.com/EzioTheDeadPoet"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+  <a href="https://www.nexusmods.com/users/42051055"><img src="https://img.shields.io/badge/Nexus%20Mods-%23E6832B?style=for-the-badge&logo=nexusmods&logoColor=white" alt="Nexus Mods Badge"/></a>
+  <a href="https://steamcommunity.com/id/EzioTheDeadPoet/"><img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/></a>
+  <a href="https://www.gog.com/u/EzioTheDeadPoet"><img src="https://img.shields.io/badge/GOG-%2386328A?style=for-the-badge&logo=gogdotcom&logoColor=white" alt="GOG Badge"/></a>
+  <a href="https://ubisoftconnect.com/en-US/profile/Sw33tChiliSauce"><img src="https://img.shields.io/badge/Ubisoft%20Connect-%23000?style=for-the-badge&logo=ubisoft&logoColor=white" alt="Ubisoft Connect Badge"/></a>
+  <a href="https://www.youtube.com/channel/UCJ7aCKDsa8CYbPaghfTcQ9Q"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
+  <a href="https://twitter.com/eziothedeadpoet"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/></a>
+  <a href="https://www.reddit.com/user/EzioTheDeadPoet"><img src="https://img.shields.io/badge/reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/></a>
 </div>
 
 ## Support Me
