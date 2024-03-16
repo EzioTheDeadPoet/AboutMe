@@ -15,11 +15,9 @@ If you want to support me you can buy me a drink:
 
 ## My Supporters ♥
 
-### THE HEROS THAT MADE ALL THIS\* POSSIBLE
+### The ones without I would probably not have started modding Skyrim
 
-\*This meaning [SME(FT)](https://eziothedeadpoet.github.io/SME-FT-/) and [Tales from the Northern Lands](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/).
-
-By Gifting Me Nexus Premium when I could not afford it.
+[SME(FT)](https://eziothedeadpoet.github.io/SME-FT-/) and [Tales from the Northern Lands](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/) where only possible because both gifted me Nexus Premium back when Wabbajack had a hard requirement for it when I could not have afforded it.
 
 - ForgottenGlory
 - Simon Magus
