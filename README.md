@@ -33,7 +33,7 @@ I also help out with the Wabbajack Project and occasionally help with alpha test
 
 ## Support Me
 
-If you like what I do you can support me on Patreon or a one time donation via Ko-fi, both types of supporters will be featured on a dedicated "Hall of Fame" page linked to all my works.
+If you like what I do you can support me on Ko-Fi, either monthly or with a one time donation both types of supporters will be featured on my dedicated ["Hall of Fame"](HALLOFFAME.md) page that I intend to link with all my creations (that are either related to modding or people explictily donated for).
 
 <div align="center">
   <a href='https://ko-fi.com/eziothedeadpoet' target='_blank'><img class="ko-fi" src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_white.png?' border='0' alt='Support me on ko-fi.com'/></a>
