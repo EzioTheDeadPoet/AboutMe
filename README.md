@@ -20,7 +20,7 @@ I also help out with the Wabbajack Project and occasionally help with alpha test
 
 ## My Socials
 <!-- markdownlint-disable MD033 -->
-<div class="socials">
+<div align="center" class="socials">
 <a href="https://www.nexusmods.com/users/42051055"><img src="https://img.shields.io/badge/Nexus%20Mods-%23E6832B?style=for-the-badge&logo=nexusmods&logoColor=white" alt="Nexus Mods Badge"/></a>
 <a href="https://github.com/EzioTheDeadPoet"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
 <a href="https://www.reddit.com/user/EzioTheDeadPoet"><img src="https://img.shields.io/badge/reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/></a>
@@ -35,7 +35,9 @@ I also help out with the Wabbajack Project and occasionally help with alpha test
 
 If you like what I do you can support me on Patreon or a one time donation via Ko-fi, both types of supporters will be featured on a dedicated "Hall of Fame" page linked to all my works.
 
-<a href='https://ko-fi.com/eziothedeadpoet' target='_blank'><img class="ko-fi" src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_white.png?' border='0' alt='Support me on ko-fi.com' /></a>
+<div align="center">
+  <a href='https://ko-fi.com/eziothedeadpoet' target='_blank'><img class="ko-fi" src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_white.png?' border='0' alt='Support me on ko-fi.com'/></a>
+</div>
 
 <!-- markdownlint-enable MD033 -->
 
