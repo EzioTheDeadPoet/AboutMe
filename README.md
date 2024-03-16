@@ -21,13 +21,13 @@ I also help out with the Wabbajack Project and occasionally help with alpha test
 ## My Socials
 <!-- markdownlint-disable MD033 -->
 <div class="socials">
-<a href="https://www.nexusmods.com/users/42051055"><img src="https://img.shields.io/badge/Nexus%20Mods-badge?style=for-the-badge&logo=nexusmods&logoColor=white&labelColor=%23E6832B&color=%23E6832B" alt="Nexus Mods Badge"/></a>
-<a href="https://github.com/EzioTheDeadPoet"><img src="https://img.shields.io/badge/GitHub-badge?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717&color=%23181717" alt="GitHub Badge"/></a>
-<a href="https://www.reddit.com/user/EzioTheDeadPoet"><img src="https://img.shields.io/badge/Reddit-badge?style=for-the-badge&logo=reddit&logoColor=white&labelColor=%23FF4500&color=%23FF4500" alt="Reddit Badge"/></a>
-<a href="https://twitter.com/eziothedeadpoet"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-<a href="https://steamcommunity.com/id/EzioTheDeadPoet/"><img src="https://img.shields.io/badge/Steam-badge?style=for-the-badge&logo=steam&logoColor=white&labelColor=%23000&color=%23000" alt="Steam Badge"/></a>
-<a href="https://www.gog.com/u/EzioTheDeadPoet"><img src="https://img.shields.io/badge/GOG-badge?style=for-the-badge&logo=gogdotcom&logoColor=white&labelColor=%2386328A&color=%2386328A" alt="GOG Badge"/></a>
-<a href="https://ubisoftconnect.com/en-US/profile/Sw33tChiliSauce"><img src="https://img.shields.io/badge/Ubisoft%20Connect-badge?style=for-the-badge&logo=ubisoft&logoColor=white&labelColor=%23000&color=%23000" alt="Ubisoft Connect Badge"/></a>
+<a href="https://www.nexusmods.com/users/42051055"><img src="https://img.shields.io/badge/Nexus%20Mods-%23E6832B?style=for-the-badge&logo=nexusmods&logoColor=white" alt="Nexus Mods Badge"/></a>
+<a href="https://github.com/EzioTheDeadPoet"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+<a href="https://www.reddit.com/user/EzioTheDeadPoet"><img src="https://img.shields.io/badge/reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/></a>
+<a href="https://twitter.com/eziothedeadpoet"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/></a>
+<a href="https://steamcommunity.com/id/EzioTheDeadPoet/"><img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/></a>
+<a href="https://www.gog.com/u/EzioTheDeadPoet"><img src="https://img.shields.io/badge/GOG-%2386328A?style=for-the-badge&logo=gogdotcom&logoColor=white" alt="GOG Badge"/></a>
+<a href="https://ubisoftconnect.com/en-US/profile/Sw33tChiliSauce"><img src="https://img.shields.io/badge/Ubisoft%20Connect-%23000?style=for-the-badge&logo=ubisoft&logoColor=white" alt="Ubisoft Connect Badge"/></a>
 <a href="https://www.youtube.com/channel/UCJ7aCKDsa8CYbPaghfTcQ9Q"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
 </div>
 
@@ -35,7 +35,7 @@ I also help out with the Wabbajack Project and occasionally help with alpha test
 
 If you like what I do you can support me on Patreon or a one time donation via Ko-fi, both types of supporters will be featured on a dedicated "Hall of Fame" page linked to all my works.
 
-<a href='https://ko-fi.com/L4L12PVW6' target='_blank'><img class="ko-fi" height='30' style='border:0px;height:32px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/eziothedeadpoet' target='_blank'><img class="ko-fi" src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_white.png?' border='0' alt='Support me on ko-fi.com' /></a>
 
 <!-- markdownlint-enable MD033 -->
 
