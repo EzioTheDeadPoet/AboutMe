@@ -11,7 +11,9 @@ I highly encourage you to support the [Wabbajack](https://www.wabbajack.org/#/) 
 
 If you want to support me you can buy me a drink:
 <!-- markdownlint-disable MD033 -->
-<a href='https://ko-fi.com/L4L12PVW6' target='_blank'><img class="ko-fi" height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<div>
+  <a href='https://ko-fi.com/eziothedeadpoet' target='_blank'><img class="ko-fi" src='https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_white.png?' border='0' alt='Support me on ko-fi.com'/></a>
+</div>
 
 ## My Supporters ♥
 
