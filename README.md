@@ -1,6 +1,5 @@
 ---
 title: Luca|EzioTheDeadPoet
-description: An introduction and my social links. 
 ---
 <!-- markdownlint-disable MD033 -->
 # Luca|EzioTheDeadPoet
