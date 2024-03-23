@@ -1,6 +1,3 @@
----
-title: Luca|EzioTheDeadPoet
----
 <!-- markdownlint-disable MD033 -->
 # Luca|EzioTheDeadPoet
 
